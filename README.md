@@ -64,11 +64,11 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## File Structure
 
-- ddpg_agent.py : Code for the policy followed by the agent.
+- multi_ddpg_agent.py : Code for the policy followed by the agent.
 - model.py : Model architecture of the deep neural networks.
 - tennis.ipynb - Contains the necessary code for training and testing.
 - nohup.out contains the code output for the notebook file
-- .pth files are the checkpoints created during training the agents
-- scores_total.npy & scores_final.npy contain the final scores after training.
+- .pth files contained in the checkpoints folder are the checkpoints created during training the agents
+- scores_total.npy & scores_final.npy in the scores_backup contain the final scores after training.
 - plots folder contains the episode vs score plot
 - Report.pdf Contains the project report
