@@ -1,8 +1,8 @@
-# Let's-Learn-Tennis
+# Let's Learn Tennis!!
 Using reinforcement learning techniques to train two agents to play a game of tennis and keep the ball in play
 
 <p align="center">
-  <img width="640" height="480" src="https://miro.medium.com/max/750/1*UmQHDskrYnONpVFk-1TjZA.gif">
+  <img width="640" height="480" src="https://media.giphy.com/media/PhTlFNTiFI1rykFPel/giphy.gif">
 </p>
 
 ## Required files and Dependencies tutorial
