@@ -1,0 +1,41 @@
+Found path: /home/ubuntu/rl/tennis/Tennis_Linux_NoVis/Tennis.x86_64
+Mono path[0] = '/home/ubuntu/rl/tennis/Tennis_Linux_NoVis/Tennis_Data/Managed'
+Mono config path = '/home/ubuntu/rl/tennis/Tennis_Linux_NoVis/Tennis_Data/MonoBleedingEdge/etc'
+Preloaded 'libgrpc_csharp_ext.x64.so'
+Unable to preload the following plugins:
+	libgrpc_csharp_ext.x86.so
+Logging to /home/ubuntu/.config/unity3d/Unity Technologies/Unity Environment/Player.log
+INFO:unityagents:
+'Academy' started successfully!
+Unity Academy name: Academy
+        Number of Brains: 1
+        Number of External Brains : 1
+        Lesson number : 0
+        Reset Parameters :
+		
+Unity brain name: TennisBrain
+        Number of Visual Observations (per agent): 0
+        Vector Observation space type: continuous
+        Vector Observation space size (per agent): 8
+        Number of stacked Vector Observation: 3
+        Vector Action space type: continuous
+        Vector Action space size (per agent): 2
+        Vector Action descriptions: , 
+Number of agents: 2
+Size of each action: 2
+There are 2 agents. Each observes a state with length: 24
+The state for the first agent looks like: [ 0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.          0.          0.
+  0.          0.          0.          0.         -6.65278625 -1.5
+ -0.          0.          6.83172083  6.         -0.          0.        ]
+Training Started...........
+Episode: 100, Score: 0.0000, 	AVG Score: 0.0090
+Episode: 200, Score: 0.0000, 	AVG Score: 0.0290
+Episode: 300, Score: 0.2000, 	AVG Score: 0.0890
+Episode: 400, Score: 0.2000, 	AVG Score: 0.0870
+Episode: 500, Score: 0.1000, 	AVG Score: 0.1410
+Episode: 600, Score: 0.1000, 	AVG Score: 0.1860
+Episode: 700, Score: 0.1000, 	AVG Score: 0.1710
+Episode: 800, Score: 1.0000, 	AVG Score: 0.2960
+
+Environment succesfully solved in 892 episodes!	Average Score: 0.51
